@@ -1,7 +1,7 @@
 # Docker 
 
 <p align="center">
-  <img name="Docker Logo" src="https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/7f61bc69-fa42-4ebc-aa5e-47915b3d95ea"/>
+  <img name="Docker Logo" src="https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/4e6fd02b-0755-43df-8a9d-915c12394480"/>
 </p>
 
 For the server credentials, check out the [Project Nautilus documentation](https://kodekloudhub.github.io/kodekloud-engineer/docs/projects/nautilus).
@@ -185,7 +185,7 @@ Welcome to xFusionCorp Industries![root@stapp01 html]#
 ```
 ✅
 
-![Level 1 completed](https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/c7b8830d-8913-4397-93fd-efd7d00b5b6b)
+![Level 1 completed](https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/72aca159-fa42-494d-a114-ca71902259bb)
 </details>
 
 ## Level 2 (Tasks 2.1-2.5)
@@ -402,7 +402,7 @@ Content-Type: text/html
 ```
 ✅
 
-![Level 2 completed](https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/29ca2447-d9aa-4dec-aef5-bb36025737c7)
+![Level 2 completed](https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/e49efb27-f685-42a5-b0a9-284cc45f3cc3)
 </details>
 
 ## Level 3 (Tasks 3.1-3.5) 
