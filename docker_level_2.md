@@ -1,6 +1,6 @@
-## Docker Level 2 (Tasks 2.1-2.5)
+# Docker Level 2 (Tasks 2.1-2.5)
 
-### 2.1 Pull Docker Image
+## 2.1 Pull Docker Image
 
 Nautilus project developers are planning to start testing on a new project. As per their meeting with the DevOps team, they want to test containerized environment application features. As per details shared with DevOps team, we need to accomplish the following task:
 - Pull `busybox:musl` image on `App Server 2` in Stratos DC and re-tag (create new tag) this image as `busybox:media`.
@@ -31,7 +31,7 @@ busybox             musl                46425a867adf        4 months ago        
 ```
 ✅
 
-### 2.2 Docker Update Permissions
+## 2.2 Docker Update Permissions
 
 One of the Nautilus project developers need access to run docker commands on `App Server 2`. This user is already created on the server. Accomplish this task as per details given below:
 - User `kirsty` is not able to run docker commands on `App Server 2` in Stratos DC, make the required changes so that this user can run docker commands without `sudo`.
@@ -68,7 +68,7 @@ REPOSITORY          TAG                 IMAGE ID            CREATED             
 ```
 ✅
 
-### 2.3 Create a Docker Image From Container
+## 2.3 Create a Docker Image From Container
 
 One of the Nautilus developer was working to test new changes on a container. He wants to keep a backup of his changes to the container. A new request has been raised for the DevOps team to create a new image from this container. Below are more details about it:
 - Create an image `cluster:devops` on `Application Server 3` from a container `ubuntu_latest` that is running on same server.
@@ -99,7 +99,7 @@ ubuntu              latest              e4c58958181a        6 weeks ago         
 ```
 ✅
 
-### 2.4 Docker EXEC Operations
+## 2.4 Docker EXEC Operations
 
 One of the Nautilus DevOps team members was working to configure services on a `kkloud` container that is running on `App Server 1` in `Stratos Datacenter`. Due to some personal work he is on PTO for the rest of the week, but we need to finish his pending work ASAP. Please complete the remaining work as per details given below:
 1. Install `apache2` in `kkloud` container using `apt` that is running on `App Server 1` in `Stratos Datacenter`.
@@ -151,7 +151,7 @@ $ service apache2 status
 ```
 ✅
 
-### 2.5 Write a Docker File
+## 2.5 Write a Docker File
 
 As per recent requirements shared by the Nautilus application development team, they need custom images created for one of their projects. Several of the initial testing requirements are already been shared with DevOps team. Therefore, create a docker file `/opt/docker/Dockerfile` (please keep `D` capital of Dockerfile) on `App server 2` in `Stratos DC` and configure to build an image with the following requirements:
 1. Use `ubuntu` as the base image.
