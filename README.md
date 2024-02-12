@@ -8,12 +8,11 @@ KodeKloud provides online hands-on trainings on trending Cloud and DevOps techno
 
 This repository contains solutions for KodeKloud Labs.
 
-For the server credentials, check out the [Project Nautilus documentation](https://kodekloudhub.github.io/kodekloud-engineer/docs/projects/nautilus).
-
-Most tasks include step of logging into a designated server (one of the servers listed below or other):
-- App Server 1: `$ sshpass -p 'Ir0nM@n' ssh -o StrictHostKeyChecking=no tony@172.16.238.10`
-- App Server 2: `$ sshpass -p 'Am3ric@' ssh -o StrictHostKeyChecking=no steve@172.16.238.11`
-- App Server 3: `$ sshpass -p 'BigGr33n' ssh -o StrictHostKeyChecking=no banner@172.16.238.12`
+> For the server credentials, check out the [Project Nautilus documentation](https://kodekloudhub.github.io/kodekloud-engineer/docs/projects/nautilus).  
+> Most tasks include step of logging into a designated server (one of the servers listed below or other):
+> - App Server 1: `$ sshpass -p 'Ir0nM@n' ssh -o StrictHostKeyChecking=no tony@172.16.238.10`
+> - App Server 2: `$ sshpass -p 'Am3ric@' ssh -o StrictHostKeyChecking=no steve@172.16.238.11`
+> - App Server 3: `$ sshpass -p 'BigGr33n' ssh -o StrictHostKeyChecking=no banner@172.16.238.12`
 
 <details>
 <summary>Infrastructure Details</summary>
