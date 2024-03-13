@@ -135,3 +135,10 @@ This repository contains solutions for KodeKloud Labs.
   - [3.8 Kubernetes Troubleshooting](./k8s_level_3.md#38-kubernetes-troubleshooting)
   - [3.9 Deploy Iron Gallery App on Kubernetes](./k8s_level_3.md#39-deploy-iron-gallery-app-on-kubernetes)
   - [3.10 Fix Python App Deployed on Kubernetes Cluster](./k8s_level_3.md#310-fix-python-app-deployed-on-kubernetes-cluster)
+
+- [Kubernetes Level 4 (Tasks 4.1-4.5)](./k8s_level_4.md)
+  - [4.1 Deploy Redis Deployment on Kubernetes](./k8s_level_4.md#41-deploy-redis-deployment-on-kubernetes)
+  - [4.2 Deploy My SQL on Kubernetes](./k8s_level_4.md#42-deploy-my-sql-on-kubernetes)
+  - [4.3 Kubernetes Nginx and Php FPM Setup](./k8s_level_4.md#43-kubernetes-nginx-and-php-fpm-setup)
+  - [4.4 Deploy Drupal App on Kubernetes](./k8s_level_4.md#44-deploy-drupal-app-on-kubernetes)
+  - [4.5 Deploy Guest Book App on Kubernetes](./k8s_level_4.md#45-deploy-guest-book-app-on-kubernetes)
