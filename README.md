@@ -88,6 +88,31 @@ This repository contains solutions for KodeKloud Labs.
   - [1.17 Linux Firewalld Rules](./linux_level_1.md#117-linux-firewalld-rules)
   - [1.18 Linux Resource Limits](./linux_level_1.md#118-linux-resource-limits)
   - [1.19 Selinux Installation](./linux_level_1.md#119-selinux-installation)
+- [Linux Level 2 (Tasks 2.1-1.24)](./linux_level_2.md)
+  - [2.1 Create a Cron Job](./linux_level_2.md#21-create-a-cron-job)
+  - [2.2 Linux Banner](./linux_level_2.md#22-linux-banner)
+  - [2.3 Linux Collaborative Directories](./linux_level_2.md#23-linux-collaborative-directories)
+  - [2.4 Linux String Substitute (sed)](./linux_level_2.md#24-linux-string-substitute-sed)
+  - [2.5 Linux SSH Authentication](./linux_level_2.md#25-linux-ssh-authentication)
+  - [2.6 Linux Find Command](./linux_level_2.md#26-linux-find-command)
+  - [2.7 Install a package](./linux_level_2.md#27-install-a-package)
+  - [2.8 Install Ansible](./linux_level_2.md#28-install-ansible)
+  - [2.9 Configure Local Yum repos](./linux_level_2.md#29-configure-local-yum-repos)
+  - [2.10 Linux Services](./linux_level_2.md#210-linux-services)
+  - [2.11 Linux Configure sudo](./linux_level_2.md#211-linux-configure-sudo)
+  - [2.12 DNS Troubleshooting](./linux_level_2.md#212-dns-troubleshooting)
+  - [2.13 Linux Firewalld Setup](./linux_level_2.md#213-linux-firewalld-setup)
+  - [2.14 Linux Postfix Mail Server](./linux_level_2.md#214-linux-postfix-mail-server)
+  - [2.15 Linux Postfix Troubleshooting](./linux_level_2.md#215-linux-postfix-troubleshooting)
+  - [2.16 Install and Configure Ha Proxy LBR](./linux_level_2.md#216-install-and-configure-ha-proxy-lbr)
+  - [2.17 Haproxy LBR Troubleshooting](./linux_level_2.md#217-haproxy-lbr-troubleshooting)
+  - [2.18 Maria DB Troubleshooting](./linux_level_2.md#218-maria-db-troubleshooting)
+  - [2.19 Linux Bash Scripts](./linux_level_2.md#219-linux-bash-scripts)
+  - [2.20 Add Response Headers in Apache](./linux_level_2.md#220-add-response-headers-in-apache)
+  - [2.21 Apache Troubleshooting](./linux_level_2.md#221-apache-troubleshooting)
+  - [2.22 Linux GPG Encryption](./linux_level_2.md#222-linux-gpg-encryption)
+  - [2.23 Linux Log Rotate](./linux_level_2.md#223-linux-log-rotate)
+  - [2.24 Application Security](./linux_level_2.md#224-application-security)
 
 ## Kubernetes 
 
@@ -142,3 +167,16 @@ This repository contains solutions for KodeKloud Labs.
   - [4.3 Kubernetes Nginx and Php FPM Setup](./k8s_level_4.md#43-kubernetes-nginx-and-php-fpm-setup)
   - [4.4 Deploy Drupal App on Kubernetes](./k8s_level_4.md#44-deploy-drupal-app-on-kubernetes)
   - [4.5 Deploy Guest Book App on Kubernetes](./k8s_level_4.md#45-deploy-guest-book-app-on-kubernetes)
+ 
+## Git 
+
+<p align="center">
+  <img width=400 name="git-logo" src="https://github.com/user-attachments/assets/884c52b8-fa4e-4f8e-8284-84e1e28d5396"/>
+</p>
+
+- [Git Level 1 (Tasks 1.1-1.5)](./git_level_1.md)
+  - [1.1 Set Up Git Repository on Storage Server](./git-level-1.md#11-set-up-git-repository-on-storage-server)
+  - [1.2 Clone Git Repository on Storage Server](./git-level-1.md#12-clone-git-repository-on-storage-server)
+  - [1.3 Fork a Git Repository](./git-level-1.md#13-fork-a-git-repository)
+  - [1.4 Update Git Repository with Sample HTML File](./git-level-1.md#14-update-git-repository-with-sample-html-file)
+  - [1.5 Delete Git Branch](./git-level-1.md#15-delete-git-branch)
