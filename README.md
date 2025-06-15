@@ -180,3 +180,16 @@ This repository contains solutions for KodeKloud Labs.
   - [1.3 Fork a Git Repository](./git-level-1.md#13-fork-a-git-repository)
   - [1.4 Update Git Repository with Sample HTML File](./git-level-1.md#14-update-git-repository-with-sample-html-file)
   - [1.5 Delete Git Branch](./git-level-1.md#15-delete-git-branch)
+
+## Jenkins
+
+<p align="center">
+  <img width=400 name="jenkins-logo" src="https://github.com/user-attachments/assets/637d8b20-87c0-4825-9f4e-a93b521138bd"/>
+</p>
+
+- [Jenkins Level 1 (Tasks 1.1-1.5)](./jenkins_level_1.md)
+  - [1.1 Set Up Jenkins Server](./jenkins_level_1.md#11-set-up-jenkins-server)
+  - [1.2 Install Jenkins Plugins](./jenkins_level_1.md#12-install-jenkins-plugins)
+  - [1.3 Configure Jenkins User Access](./jenkins_level_1.md#13-configure-jenkins-user-access)
+  - [1.4 Organize Jenkins Jobs with Folders](./jenkins_level_1.md#14-organize-jenkins-jobs-with-folders)
+  - [1.5 Configure Jenkins Job for Package Installation](./jenkins_level_1.md#15-configure-jenkins-job-for-package-installation)
