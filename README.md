@@ -34,7 +34,7 @@ This repository contains solutions for KodeKloud Labs.
 ## Docker 
 
 <p align="center">
-  <img width=400 name="Docker Logo" src="https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/4e6fd02b-0755-43df-8a9d-915c12394480"/>
+  <img height=100 name="Docker Logo" src="https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/4e6fd02b-0755-43df-8a9d-915c12394480"/>
 </p>
 
 <details>
@@ -77,7 +77,7 @@ This repository contains solutions for KodeKloud Labs.
 ## Linux
 
 <p align="center">
-  <img width=400 name="linux-logo" src="https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/62722f74-ab95-4c26-846e-a662b5f9359a"/>
+  <img height=100 name="linux-logo" src="https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/62722f74-ab95-4c26-846e-a662b5f9359a"/>
 </p>
 
 <details>
@@ -162,7 +162,7 @@ This repository contains solutions for KodeKloud Labs.
 ## Kubernetes 
 
 <p align="center">
-  <img width=400 name="kubernetes-logo" src="https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/f03157dc-87be-456e-b06e-877f7a4cdc78"/>
+  <img height=80 name="kubernetes-logo" src="https://github.com/adinpilavdzija/kodekloud-engineer/assets/65655945/f03157dc-87be-456e-b06e-877f7a4cdc78"/>
 </p>
 
 <details>
@@ -225,7 +225,7 @@ This repository contains solutions for KodeKloud Labs.
 ## Git 
 
 <p align="center">
-  <img width=400 name="git-logo" src="https://github.com/user-attachments/assets/884c52b8-fa4e-4f8e-8284-84e1e28d5396"/>
+  <img height=100 name="git-logo" src="https://github.com/user-attachments/assets/884c52b8-fa4e-4f8e-8284-84e1e28d5396"/>
 </p>
 
 <details>
@@ -250,7 +250,7 @@ This repository contains solutions for KodeKloud Labs.
 ## Jenkins
 
 <p align="center">
-  <img width=400 name="jenkins-logo" src="https://github.com/user-attachments/assets/637d8b20-87c0-4825-9f4e-a93b521138bd"/>
+  <img height=100 name="jenkins-logo" src="https://github.com/user-attachments/assets/637d8b20-87c0-4825-9f4e-a93b521138bd"/>
 </p>
 
 <details>
